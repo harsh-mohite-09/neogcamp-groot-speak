@@ -1,2 +1,2 @@
 # neogcamp-morse-talk
- markSeven assignment for neogcamp
+This app translate the sentence you input into Morse Code.
